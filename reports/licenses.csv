@@ -1,2 +1,6 @@
 package,license,category
-placeholder,NONE,permissive
+chardet,0BSD,copyleft
+click,BSD-3-Clause,permissive
+flask,BSD-3-Clause,permissive
+numpy,BSD-3-Clause,permissive
+requests,Apache-2.0,permissive
